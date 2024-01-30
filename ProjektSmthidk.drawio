@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T09:46:40.510Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="2Mz4HL48WiyfF_jAYLm7" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T09:47:25.594Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="HrEpHptEvGiiYxiAN-XI" version="23.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2901" dy="2311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
         <mxCell id="_3oRnArDwlTVhHoEboh7-23" value="Inventory" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="_3oRnArDwlTVhHoEboh7-21" vertex="1">
           <mxGeometry y="52" width="150" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="31eVCg-rmrNugIKv_rSr-38" value="boolean istAmZug - &quot;macht keinen SInn&quot;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="_3oRnArDwlTVhHoEboh7-21" vertex="1">
+        <mxCell id="31eVCg-rmrNugIKv_rSr-38" value="boolean istAmZug" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="_3oRnArDwlTVhHoEboh7-21" vertex="1">
           <mxGeometry y="78" width="150" height="26" as="geometry" />
         </mxCell>
         <mxCell id="o50f4j4-CkijmpukUi6C-11" value="string Playername" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="_3oRnArDwlTVhHoEboh7-21" vertex="1">
@@ -452,6 +452,9 @@
             <mxPoint x="910" y="-210" as="sourcePoint" />
             <mxPoint x="1027" y="-95" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cVPt4sqTKFolR8iPQztJ-13" value=" - &quot;macht keinen SInn&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="494" y="-68" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
