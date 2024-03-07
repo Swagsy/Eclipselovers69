@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T09:46:11.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="YBWMTovLqGYAAexXI8ff" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T09:46:50.642Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="fhXVLu6JnIqYGIbguhL8" version="24.0.2" type="github">
   <diagram name="Seite-1" id="xdKeQINs2F3bOMw4I5j9">
     <mxGraphModel dx="1430" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lnL6TunYxl-OulkVIEpt-38" value="Can jump on" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="670" y="520" width="80" height="30" as="geometry" />
+          <mxGeometry x="600" y="540" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lnL6TunYxl-OulkVIEpt-41" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="950" y="451" width="10" height="20" as="geometry" />
