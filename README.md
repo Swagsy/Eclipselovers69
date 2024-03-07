@@ -8,8 +8,11 @@ Ein sehr schönes Repository, weil wir cool sind. !I_love_computer_science
 <sup>(dafür dass ihr noch nix geholfen habt hier ❤️)</sup>
 ## - [@monstermuffin](https://github.com/monstermuffinEC)
 ## - [@t.schm___](https://github.com/T-Y-S)
-## - [@froschmann] (Wo ist er??)
+## - [@froschmann] (Wir haben ihn gefunden!!!!1!)
+## - [@Swagsy](youtube.com/@Swagsy)
 
 #
+
+work in progress yall, we cooking the hardest game fr
 
 <img src="https://raw.githubusercontent.com/Swagsy/Eclipselovers69/main/OIG...qK0i29_y.jpeg" alt="Alt Text" width="400"/>
