@@ -5,7 +5,7 @@ Ein sehr schönes Repository, weil wir cool sind. !I_love_computer_science
 
 
 # Special Thanks 
-<sup>(dafür dass ihr noch nix geholfen habt hier ❤️)</sup>
+<sup>(you all been the most helpful thank you my lovely eclipselovers ❤️)</sup>
 ## - [@monstermuffin](https://github.com/monstermuffinEC)
 ## - [@t.schm___](https://github.com/T-Y-S)
 ## - [@froschmann] (Wir haben ihn gefunden!!!!1!)
