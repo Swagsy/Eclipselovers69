@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T09:48:35.619Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="cyUBscRTrC50E-eJnPwA" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T10:06:45.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="wgaeBAJ19KA7nP6N03r8" version="24.0.2" type="github">
   <diagram name="Seite-1" id="xdKeQINs2F3bOMw4I5j9">
-    <mxGraphModel dx="1430" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
         <mxCell id="lnL6TunYxl-OulkVIEpt-14" value="move()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="lnL6TunYxl-OulkVIEpt-11" vertex="1">
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="rFQA7Qal4SHW7xT8BtL1-1" value="HitPlayer()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="lnL6TunYxl-OulkVIEpt-11" vertex="1">
+        <mxCell id="rFQA7Qal4SHW7xT8BtL1-1" value="hitPlayer()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="lnL6TunYxl-OulkVIEpt-11" vertex="1">
           <mxGeometry y="86" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="lnL6TunYxl-OulkVIEpt-15" value="Player" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -77,10 +77,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lnL6TunYxl-OulkVIEpt-38" value="Can jump on" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="600" y="540" width="80" height="30" as="geometry" />
+          <mxGeometry x="600" y="560" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lnL6TunYxl-OulkVIEpt-41" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="950" y="451" width="10" height="20" as="geometry" />
+          <mxGeometry x="960" y="451" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lnL6TunYxl-OulkVIEpt-47" value="n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="580" width="10" height="20" as="geometry" />
@@ -141,6 +141,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="800" y="565" as="sourcePoint" />
             <mxPoint x="850" y="515" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="940" y="590" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lnL6TunYxl-OulkVIEpt-77" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=-0.006;entryY=0.962;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.125;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="lnL6TunYxl-OulkVIEpt-55" target="lnL6TunYxl-OulkVIEpt-2" edge="1">
@@ -161,7 +164,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lnL6TunYxl-OulkVIEpt-79" value="can hit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="940" y="490" width="80" height="30" as="geometry" />
+          <mxGeometry x="770" y="510" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lnL6TunYxl-OulkVIEpt-82" value="n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="620" y="410" width="10" height="20" as="geometry" />
